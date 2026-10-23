@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+__pycache__/
+*.pyc
+*.db
+.venv/
+.pytest_cache/
+coverage/
